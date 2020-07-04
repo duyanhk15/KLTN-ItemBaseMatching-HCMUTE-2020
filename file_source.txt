@@ -1,0 +1,7 @@
+File gồm có:
+- Source code
+- Dataset
+- Images
+- Checkpoint
+
+Link source: https://drive.google.com/file/d/1IJdhHwSKAWitiufeIHdR7fUtpmprhLcE/view?usp=sharing
